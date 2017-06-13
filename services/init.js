@@ -1,9 +1,3 @@
-/*
-financesScript.js
-Financial Vir
-Summer 2015 (first created)
-*/
-
 function newUserPrompt(overlayController, newEntryController) {
   console.log('Empty database!');
   document.getElementById('overlayNewUser').removeAttribute('style');
@@ -17,7 +11,6 @@ function newUserPrompt(overlayController, newEntryController) {
 }
 
 function prepareMonthCalculations(calc) {
-  // TODO: code this
   console.log('month calculations');
   return {};
 }
