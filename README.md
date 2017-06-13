@@ -19,11 +19,11 @@ Wireframes
 ----------
 Using pen and paper, my client drew up some of the wireframes for her money tracking app
 
-![alt text](/wireframe1.png)
+![alt text](/wireframe1.jpg)
 Main page of her application
 
-![alt text](/wireframe2.png)
-![alt text](/wireframe3.png)
+![alt text](/wireframe2.jpg)
+![alt text](/wireframe3.jpg)
 Linking accounts with other users (future features)
 
 Future Features
